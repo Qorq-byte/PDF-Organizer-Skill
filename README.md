@@ -221,3 +221,16 @@ transformer-paper.pdf
 * 重要概念
 
 例如：
+
+```text
+#Transformer
+#Attention
+#LLM
+#RAG
+#MachineLearning
+```
+
+默认只保留主要关键词，避免产生几十个没有意义的标签。
+
+---
+
