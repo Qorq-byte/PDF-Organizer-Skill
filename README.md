@@ -301,3 +301,18 @@ transformer-paper.pdf
 
 ---
 
+# 7. 📑 自动识别目录与章节
+
+如果 PDF 本身存在目录：
+
+```text
+1. Introduction
+2. Method
+3. Results
+4. Discussion
+5. Conclusion
+```
+
+直接提取原始目录。
+
+如果没有目录，但能够从正文中可靠识别章节，则生成：
