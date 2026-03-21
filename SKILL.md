@@ -88,3 +88,28 @@ description: 自动读取、理解、分类、摘要和整理 PDF 文档的通�
 
 优先使用可搜索文本。扫描件在文本层缺失时再进行视觉识别/OCR。识别质量过低时标记 `extraction_confidence: low`，不得猜测缺失文字。
 
+## 5. 文档元数据提取
+
+尽可能提取：
+
+```json
+{
+  "filename": "",
+  "title": "",
+  "author": [],
+  "organization": "",
+  "date": "",
+  "year": "",
+  "language": "",
+  "page_count": 0,
+  "document_type": "",
+  "subject": [],
+  "keywords": [],
+  "source": "",
+  "version": "",
+  "extraction_confidence": "high"
+}
+```
+
+缺失信息使用 `unknown` / `not found`，不要编造。
+
