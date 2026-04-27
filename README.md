@@ -419,3 +419,16 @@ P.15 结论
 ```
 
 或者：
+
+```text
+Paper A
+   ↓
+Paper B 为更新版本
+
+Paper C
+   ↓
+Paper A 的补充实验
+```
+
+---
+
