@@ -490,3 +490,22 @@ Final-final
 * 版本号
 * 修改记录
 * 内容差异
+
+形成版本关系：
+
+```text
+报告
+├── Draft
+├── v1
+├── v2
+└── Final
+```
+
+无法确认最新版本时，会明确提示：
+
+```text
+latest_version: uncertain
+```
+
+---
+
