@@ -509,3 +509,12 @@ latest_version: uncertain
 
 ---
 
+# 13. 📁 智能文件夹规划
+
+例如发现用户拥有：
+
+```text
+100+ PDF
+```
+
+Skill 可以建议：
