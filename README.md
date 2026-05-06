@@ -561,3 +561,14 @@ document123456.pdf
 ```text
 [课程资料]_大学英语六级阅读真题_2026.pdf
 ```
+
+或：
+
+```text
+[科研论文]_Retrieval-Augmented Generation_2026.pdf
+```
+
+默认不会未经授权覆盖原文件。
+
+---
+
