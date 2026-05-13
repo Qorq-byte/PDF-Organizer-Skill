@@ -658,3 +658,24 @@ Skill 会执行：
  ↓
 生成主题综述
 ```
+
+输出：
+
+```text
+RAG 相关信息
+
+📄 paper-a.pdf
+P.4：
+……
+
+📄 report-b.pdf
+P.12：
+……
+
+📄 lecture-c.pdf
+P.36：
+……
+```
+
+---
+
