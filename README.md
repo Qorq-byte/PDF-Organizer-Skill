@@ -846,3 +846,14 @@ PDF
                 ↓
               分析
 ```
+
+如果识别质量较低：
+
+```text
+extraction_confidence: low
+```
+
+不会猜测模糊文字。
+
+---
+
