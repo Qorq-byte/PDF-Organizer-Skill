@@ -933,3 +933,10 @@ extraction_confidence: low
 
 ---
 
+## 示例 3：找特定主题
+
+```text
+从这些 PDF 中找出所有关于 Transformer 的内容。
+```
+
+输出：
