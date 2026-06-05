@@ -940,3 +940,20 @@ extraction_confidence: low
 ```
 
 输出：
+
+```text
+文件 A
+P.4
+……
+
+文件 B
+P.12
+……
+
+文件 H
+P.38
+……
+```
+
+---
+
