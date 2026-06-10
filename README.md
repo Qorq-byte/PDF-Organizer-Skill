@@ -983,3 +983,23 @@ P.4 / P.9 / P.15
 
 ---
 
+# 📦 安装
+
+将 Skill 放进 Agent 的 Skills 目录：
+
+```text
+skills/
+└── pdf-organizer/
+    └── SKILL.md
+```
+
+项目结构：
+
+```text
+pdf-organizer/
+├── SKILL.md
+└── README.md
+```
+
+---
+
