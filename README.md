@@ -1003,3 +1003,13 @@ pdf-organizer/
 
 ---
 
+# 🤖 Agent 兼容性
+
+本 Skill 采用通用 Agent Skill 设计，可以作为以下环境的基础：
+
+* Claude Code
+* Codex
+* ChatGPT Agent
+* 其他支持 Agent Skills 的 Agent 框架
+
+Skill 负责：
