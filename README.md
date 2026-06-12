@@ -1013,3 +1013,22 @@ pdf-organizer/
 * 其他支持 Agent Skills 的 Agent 框架
 
 Skill 负责：
+
+```text
+PDF 理解
++
+文档分类
++
+摘要
++
+信息提取
++
+文档关系分析
++
+整理策略
+```
+
+实际的 PDF 读取、OCR、文件移动和本地存储能力取决于 Agent 所拥有的工具。
+
+---
+
