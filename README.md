@@ -1062,3 +1062,13 @@ PDF 分析
 
 ---
 
+# 📂 项目结构
+
+```text
+pdf-organizer/
+│
+├── SKILL.md
+└── README.md
+```
+
+未来可以扩展：
