@@ -1072,3 +1072,17 @@ pdf-organizer/
 ```
 
 未来可以扩展：
+
+```text
+pdf-organizer/
+│
+├── SKILL.md
+├── README.md
+├── examples/
+├── templates/
+├── docs/
+└── scripts/
+```
+
+---
+
