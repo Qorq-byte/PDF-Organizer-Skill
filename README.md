@@ -1086,3 +1086,26 @@ pdf-organizer/
 
 ---
 
+# 🚀 Roadmap
+
+* [ ] 批量 PDF 自动分类
+* [ ] 自动生成 PDF 总索引
+* [ ] OCR 批量处理
+* [ ] 章节自动识别
+* [ ] 文档知识图谱
+* [ ] 重复 PDF 检测
+* [ ] 版本差异分析
+* [ ] 主题跨 PDF 搜索
+* [ ] 自动生成 Markdown 笔记
+* [ ] 自动生成 Notion 知识库
+* [ ] 自动生成学习卡片
+* [ ] 自动生成思维导图
+* [ ] 与 CET Error Analyzer 联动
+* [ ] 本地向量数据库 / RAG
+* [ ] Web Dashboard
+* [ ] PDF → Markdown 自动转换
+* [ ] PDF → Anki 卡片
+* [ ] 多语言 PDF 支持
+
+---
+
