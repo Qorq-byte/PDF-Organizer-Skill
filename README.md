@@ -1109,3 +1109,10 @@ pdf-organizer/
 
 ---
 
+# 🧠 项目定位
+
+`PDF Organizer` 不是简单的：
+
+> PDF → Summary
+
+而是：
