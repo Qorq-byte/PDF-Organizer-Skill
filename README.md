@@ -1161,3 +1161,18 @@ pdf-organizer/
 
 ---
 
+# 📄 License
+
+可以根据仓库实际情况选择：
+
+```text
+MIT License
+```
+
+或：
+
+```text
+Apache License 2.0
+```
+
+正式开源时，请同时确认所使用的模型、OCR、第三方库和数据来源的授权情况。
